@@ -1,4 +1,4 @@
-# Elements Of Computin gSystems
+# Elements Of Computing Systems
 
 Documenting my journey through the projects of the book Elements of Computing Systems by Noam Nisan and Shimon Schocken
 
